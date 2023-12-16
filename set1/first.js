@@ -105,6 +105,3 @@ console.log(id==anotherid)
 //either use (`Hello my name is ${name} and my repocount is ${repocount}`)
 //access ,gamename.__proto__
 //trim,replace,includes,splitk
-
-//numers and maths
-//

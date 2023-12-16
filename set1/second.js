@@ -25,6 +25,7 @@ console.log(hundreds.toLocaleString('en-In'))
 //round, ceil, floor
 //min max
 //random function
+/*
 console.log(Math.random()) //gives values between one and three
 console.log(Math.random()*10)
 
@@ -32,4 +33,16 @@ const min=10
 const max=20
 
 console.log(Math.floor(Math.random()*(max-min+1))+min)
+*/
 
+//Dates
+/*
+let mydate =new Date()
+console.log(mydate)
+console.log(mydate.toString())
+console.log(mydate.toJSON())
+console.log(typeof mydate)
+
+let mynewdate= new Date(2023,0,23)
+console.log()
+*/
